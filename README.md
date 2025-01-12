@@ -1,9 +1,9 @@
 # left-right
 
 - [Boilerplate](src/style.css)
-- [Sample Page](src/sample.html)
+- [Sample Page](sample/sample.html)
 
-## Github Links
+## Alternate Views
 
-- [Repo](https://github.com/JamesRobertHugginsNgo/left-right)
-- [Page](https://jamesroberthugginsngo.github.io/left-right/)
+- [View in github](https://github.com/JamesRobertHugginsNgo/left-right)
+- [View in github page](https://jamesroberthugginsngo.github.io/left-right/)
